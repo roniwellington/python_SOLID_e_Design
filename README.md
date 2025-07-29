@@ -80,3 +80,5 @@ Projeto desenvolvido como estudo dos princípios **SOLID** e padrões de design 
 Feito pela Escola de Programação da Alura!
 
 Fique à vontade para contribuir! 🎉
+
+###############
